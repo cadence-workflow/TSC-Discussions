@@ -91,7 +91,7 @@ profiles:
     #   exclude_team_maintainers: false
     #
     allowed_voters:
-      teams: [@cadence-workflow/tsc]
+      teams: ["@cadence-workflow/tsc"]
       users: []
 
     # Periodic status check
